@@ -1,0 +1,17 @@
+.box {
+  display: flex;
+  margin: 12px;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid black;
+}
+
+.left {
+  flex: 15%;
+  font-size: 70px;
+}
+
+.right {
+  flex: 80%;
+  text-align: justify;
+}
